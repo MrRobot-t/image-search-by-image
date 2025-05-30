@@ -572,4 +572,4 @@ fail return
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Date%5D(https://www.star-history.com/,MrRobot-t/image-search-by-image&type=Date)](https://www.star-history.com/#Date%5D(https://www.star-history.com/&MrRobot-t/image-search-by-image&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=MrRobot-t/image-search-by-image&type=Date)](https://www.star-history.com/#MrRobot-t/image-search-by-image&Date)
