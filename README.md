@@ -571,5 +571,4 @@ fail return
 ```
 
 ## Star History
-
-[![Star History Chart]([https://api.star-history.com/svg?repos=gh203322/bogv-image-search-engine&type=Date)](https://star-history.com/#gh203322/bogv-image-search-engine&Date](https://www.star-history.com/#image-search-by-image/image-search-by-image&MrRobot-t/image-search-by-image&Date))
+[![Star History Chart](https://api.star-history.com/svg?repos=Date%5D(https://www.star-history.com/,MrRobot-t/image-search-by-image&type=Date)](https://www.star-history.com/#Date%5D(https://www.star-history.com/&MrRobot-t/image-search-by-image&Date)
